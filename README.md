@@ -26,3 +26,18 @@ Vedi file `LICENSE.md` per il testo completo.
 - Documento corrente: Dall’Elettromagnetismo e Gravitá Emergente ai Chip MT-Inspired… (PDF)
 
 © 2026 Simon Soliman – TETcollective – https://tetcollective.org
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18329587.svg)](https://doi.org/10.5281/zenodo.18329587)
+
+
+@misc{soliman2026tet,
+  author       = {Soliman, Simon},
+  title        = {Dall'Elettromagnetismo e Gravitá Emergente ai Chip MT-Inspired con Integrazioni SAW, NV-Diamond, Magnonics, h-BN e Grafene 2D -- Framework TET--CVTL},
+  year         = {2026},
+  month        = jan,
+  doi          = {10.5281/zenodo.18329587},
+  url          = {https://doi.org/10.5281/zenodo.18329587},
+  publisher    = {Zenodo},
+  version      = {v1},
+  note         = {Independent Researcher, TETcollective -- Topology \& Entanglement Theory, Rome, Italy. ORCID: 0009-0002-3533-3772. License: CC BY-NC-ND 4.0. Repository: \url{https://github.com/TETcollective/MT-Inspired-Neuromorphic-Chip-TETcollective}. Supplements previous works: DOI 10.5281/zenodo.18328954 (Manifesto V2.5.2) and DOI 10.5281/zenodo.18205557 (V3.0)},
+}
