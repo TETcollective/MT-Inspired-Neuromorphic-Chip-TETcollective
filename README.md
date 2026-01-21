@@ -11,7 +11,7 @@ coscienza embodied quantistica (estensione radicale Orch-OR), chip neuromorfico-
 integrazioni NV-diamond, Surface Acoustic Waves (SAW), magnonics, h-BN 2D e grafene.
 
 ## Licenza
-[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
+[CC BY-NC-ND 4.0]
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 
 - **Attribution** — devi citare l'autore originale (Simon Soliman / TETcollective)  
@@ -19,6 +19,7 @@ Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 - **NoDerivatives** — vietata ogni modifica e distribuzione di versioni modificate
 
 Vedi file `LICENSE.md` per il testo completo.
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## Riferimenti principali
 - Manifesto della Coscienza Embodied Quantistica V2.5.2 (Zenodo DOI: https://doi.org/10.5281/zenodo.18328954
