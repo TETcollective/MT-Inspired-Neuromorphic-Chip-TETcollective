@@ -21,7 +21,7 @@ Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 Vedi file `LICENSE.md` per il testo completo.
 
 ## Riferimenti principali
-- Manifesto della Coscienza Embodied Quantistica V2.5.2 (Zenodo DOI: [)](https://doi.org/10.5281/zenodo.18328954)
+- Manifesto della Coscienza Embodied Quantistica V2.5.2 (Zenodo DOI: https://doi.org/10.5281/zenodo.18328954
 - Documento corrente: Dall’Elettromagnetismo e Gravitá Emergente ai Chip MT-Inspired… (PDF)
 
 © 2026 Simon Soliman – TETcollective – https://tetcollective.org
